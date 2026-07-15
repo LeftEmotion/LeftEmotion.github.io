@@ -1,5 +1,7 @@
+favicon: /img/kei_sample.jpg
+
 navbar:
-  blog_title: "Hexo"
+  blog_title: "余情岂是为他人"
   menu:
     - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
     - { key: "archive", name: "Blue Archives", link: "/archives/", icon: "iconfont icon-archive-fill" }
