@@ -1,0 +1,4 @@
+allowBuilds:
+  hexo-util: true
+onlyBuiltDependencies:
+  - hexo-util

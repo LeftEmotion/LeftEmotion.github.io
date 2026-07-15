@@ -1,0 +1,25 @@
+navbar:
+  blog_title: "Hexo"
+  menu:
+    - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
+    - { key: "archive", name: "Blue Archives", link: "/archives/", icon: "iconfont icon-archive-fill" }
+    - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
+    - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
+    - { key: "about", name: "About me", link: "/about/", icon: "iconfont icon-user-fill" }
+
+about:
+  enable: true
+  avatar: /images/momoi.jpg
+  name: "YUTSING"
+  intro: "You can find me on the following platfroms"
+  icons:
+    - { class: "iconfont icon-github-fill", link: "https://github.com/LeftEmotion", tip: "GitHub" }
+    - { class: "iconfont icon-twitter-fill", link: "https://twitter.com/YuTsingLeen", tip: "Twitter" }
+    - { class: "iconfont icon-bilibili-fill", link: "https://space.bilibili.com/12119780", tip: "Bilibili" }
+
+links:
+  enable: true
+  items:
+    - { title: "余情岂是为他人", intro: "The blog to the road", link: "https://hexo.fluid-dev.com/", avatar: "/img/favicon.png" }
+    - { title: "Fluid Docs", intro: "主题使用指南", link: "https://hexo.fluid-dev.com/docs/", avatar: "/img/favicon.png" }
+    - { title: "Fluid Repo", intro: "主题 GitHub 仓库", link: "https://github.com/fluid-dev/hexo-theme-fluid", avatar: "/img/favicon.png" }
