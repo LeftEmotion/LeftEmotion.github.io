@@ -9,6 +9,11 @@ navbar:
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "about", name: "About me", link: "/about/", icon: "iconfont icon-user-fill" }
 
+index:
+  slogan:
+    enable: true
+    text: "Welcome to my blog"
+
 about:
   enable: true
   avatar: /images/momoi.jpg
